@@ -1,7 +1,6 @@
 
 `**What is Numpy and getting started**`
 Numpy is a python library which is used to provide mathematical solutions. 
-It is a short form for **numerical python *(NumPy)***.
 It provides the functionality to work with multidimensional array of objects, assortment of routines for quick array operations alongside other derived objects. 
 Fast array operations in arrays include:
 - mathematics
@@ -72,5 +71,4 @@ for the above code the forward arrows shows a user input while the latter one wi
 - numpy has several enormous range of fast and efficient ways of creating arrays.
 It also provides ways to manipulate the numerical data inside them. 
 - On the other hand python list contains different data types within a single list.
-- This means the data type in python are heterogenous(different data types) while for NumPy are homogenous(same data type).
-
+- This means the data type in python are heterogenous(heterogenous) while for NumPy are homogenous(same data type)
